@@ -1,0 +1,12 @@
+• New Frames Added
+   - iPhone 14 lineup (4 new frames)
+   - Apple Watch Series 8 (3 new frames)
+   - Apple Watch Ultra
+   - M2 MacBook Air
+• Auto Detection is now available for more devices
+   - iPad Pro 12.9" (6th Generation)
+   - iPad Pro 11" (4th Generation)
+   - iPhone 14, 14 Plus, 14 Pro, 14 Pro Max
+   - M2 MacBook Air
+   - M2 MacBook Pro
+• Ability to update right from the shortcut
