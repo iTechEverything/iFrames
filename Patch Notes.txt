@@ -1,12 +1,8 @@
-• New Frames Added
-   - iPhone 14 lineup (4 new frames)
-   - Apple Watch Series 8 (3 new frames)
-   - Apple Watch Ultra
-   - M2 MacBook Air
+• Completely new iFrames API (Learn more on itecheverything.com)
+• You can now pin a frame to the top of the frames picker
+• Offline Mode: You can download your favorite frames to use them quickly and without an internet connection
+• New Frame Added: iPad 10th Generation (10.9")
 • Auto Detection is now available for more devices
-   - iPad Pro 12.9" (6th Generation)
-   - iPad Pro 11" (4th Generation)
-   - iPhone 14, 14 Plus, 14 Pro, 14 Pro Max
-   - M2 MacBook Air
-   - M2 MacBook Pro
-• Ability to update right from the shortcut
+   - iPad 10th Generation
+   - 2023 MacBook Pro 14"
+   - 2023 MacBook Pro 16"
