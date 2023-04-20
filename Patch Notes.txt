@@ -1,4 +1,4 @@
-• iFrames 2.0.1 fixes a bug where an error relating to a dictionary value may appear
+• iFrames 2.0.1 fixes a bug where an error would be presented on using Auto Detection, if you have an iPad Pro 12.9" or any other device with a screen size with decimal units it in.
 
 iFrames 2.0:
 • Completely new iFrames API (Learn more on itecheverything.com)
