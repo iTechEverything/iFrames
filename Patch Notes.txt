@@ -1,3 +1,6 @@
+• iFrames 2.0.1 fixes a bug where an error relating to a dictionary value may appear
+
+iFrames 2.0:
 • Completely new iFrames API (Learn more on itecheverything.com)
 • You can now pin a frame to the top of the frames picker
 • Offline Mode: You can download your favorite frames to use them quickly and without an internet connection
