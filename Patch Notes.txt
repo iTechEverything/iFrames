@@ -1,11 +1,8 @@
-• iFrames 2.0.1 fixes a bug where an error would be presented on using Auto Detection, if you have an iPad Pro 12.9" or any other device with a screen size with decimal units it in.
+iFrames 2.1 adds support for the following devices:
 
-iFrames 2.0:
-• Completely new iFrames API (Learn more on itecheverything.com)
-• You can now pin a frame to the top of the frames picker
-• Offline Mode: You can download your favorite frames to use them quickly and without an internet connection
-• New Frame Added: iPad 10th Generation (10.9")
-• Auto Detection is now available for more devices
-   - iPad 10th Generation
-   - 2023 MacBook Pro 14"
-   - 2023 MacBook Pro 16"
+• iPhone 15
+• iPhone 15 Plus
+• iPhone 15 Pro
+• iPhone 15 Pro Max
+• Apple Watch Series 9 41mm
+• Apple Watch Series 9 45mm
