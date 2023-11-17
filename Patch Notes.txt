@@ -1,8 +1,5 @@
-iFrames 2.1 adds support for the following devices:
+iFrames 2.1.1 fixes the following issues with the iFrames API:
 
-• iPhone 15
-• iPhone 15 Plus
-• iPhone 15 Pro
-• iPhone 15 Pro Max
-• Apple Watch Series 9 41mm
-• Apple Watch Series 9 45mm
+• When no API command for the input was provided, the shortcut would not automatically ask the user to select a screenshot. This has now been fixed.
+• When the &passthrough command was passed, the shortcut would ignore &vGrid, &hGrid, and &autoGrid commands, this is no longer the case.
+• The shortcut would not accept images passed alongside the API command, which has also been fixed.
