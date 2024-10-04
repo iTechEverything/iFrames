@@ -1,5 +1,24 @@
-iFrames 2.1.1 fixes the following issues with the iFrames API:
+Introducing iFrames 2.2 with support for 18 new device frames, and auto-detection support for Apple Products launched in 2024.
 
-• When no API command for the input was provided, the shortcut would not automatically ask the user to select a screenshot. This has now been fixed.
-• When the &passthrough command was passed, the shortcut would ignore &vGrid, &hGrid, and &autoGrid commands, this is no longer the case.
-• The shortcut would not accept images passed alongside the API command, which has also been fixed.
+New Frames:
+- iPhone 16
+- iPhone 16 Plus
+- iPhone 16 Pro
+- iPhone 16 Pro Max
+- Apple Watch Ultra 2 - 2 Finishes
+- Apple Watch Series 10 - 6 Finishes
+- iPad Pro M4 13”
+- iPad Air M4 11”
+- iPad Air M2 13”
+- iPad Air M2 11”
+- MacBook Pro 16” - Space Black
+- MacBook Pro 14” - Space Black
+
+Auto Detection Support added for:
+- All of the above mentioned iPhones, iPads and Macs.
+- iMac (24-inch, M3, 2023)
+- M3 Pro/Max MacBook Pro 14”
+- M3 Pro/Max Book Pro 16”
+- M3 MacBook Pro 16”
+- M3 MacBook Air 13.6”
+- M3 MacBook Air 15”
