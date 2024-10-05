@@ -1,4 +1,6 @@
-Introducing iFrames 2.2 with support for 18 new device frames, and auto-detection support for Apple Products launched in 2024.
+Introducing iFrames 2.2.1 with support for 18 new device frames, and auto-detection support for Apple Products launched in 2024.
+
+iFrames 2.2.1 Hotfix: Original Apple Watch Ultra Not Working (Fixed)
 
 New Frames:
 - iPhone 16
