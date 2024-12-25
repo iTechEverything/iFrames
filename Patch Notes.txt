@@ -1,16 +1,1 @@
-Introducing iFrames 2.2.1 with support for 18 new device frames, and auto-detection support for Apple Products launched in 2024.
-
-iFrames 2.2.1 Hotfix: Original Apple Watch Ultra Not Working (Fixed)
-
-New Frames:
-- iPhone 16 Models
-- 2024 Apple Watch Lineup (S10, Ultra)
-- M4 iPad Pro 13"/11"
-- M2 iPad Air 13"/11"
-- Space Black MacBook Pros
-
-Auto Detection Support added for:
-- All of the above mentioned iPhones, iPads and Macs.
-- iMac (24-inch, M3, 2023)
-- M3 Regular/Pro/Max MacBook Pro 14”/16"
-- M3 MacBook Air 13.6”/15"
+iFrames 2.2.2 fixes an issue with iFrames on iOS 18 and aligned releases where certain screenshots which were captured with the P3 Color Gamut would have a non-transparent background. Thanks to @atnbueno from Twitter for the solution!
